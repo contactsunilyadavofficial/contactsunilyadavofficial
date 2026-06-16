@@ -5,9 +5,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/contactsunilyadavofficial/contactsunilyadavofficial/blob/main/images/sunilyadav.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://leetcode.com/u/contactsunilyadavofficial/&label=Profile%20views&color=0e75b6&style=flat" alt="contactsunilyadavofficial/ /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=https://leetcode.com/u/contactsunilyadavofficial/&label=Profile%20views&color=0e75b6&style=flat" alt="contactsunilyadavofficial"> </p-->
 
-<p align="left"> <a href="https://twitter.com/contactsunilyadavofficial/ target="blank"><img src="https://img.shields.io/twitter/follow/https://leetcode.com/u/contactsunilyadavofficial/?logo=twitter&style=for-the-badge" alt="contactsunilyadavofficial/ /></a> </p>
+<p align="left"> <a href="https://twitter.com/contactsunilyadavofficial/ target="blank"><!--img src="https://img.shields.io/twitter/follow/https://leetcode.com/u/contactsunilyadavofficial/?logo=twitter&style=for-the-badge" alt="contactsunilyadavofficial/ /--></a> </p>
 
 - 🔭 I’m currently working on **Tata Consultancy Services**
 

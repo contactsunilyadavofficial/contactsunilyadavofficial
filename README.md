@@ -60,10 +60,10 @@ Feel free to reach out to me at https://leetcode.com/u/contactsunilyadavofficial
 
 </p>
 
- <p align="center">
+ <!--p align="center">
   <img src="https://raw.githubusercontent.com/https://leetcode.com/u/contactsunilyadavofficial//https://leetcode.com/u/contactsunilyadavofficial//main/images/footer_banner.png">
   <img src="#">
-  </p>
+  </p-->
 
   ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/https://leetcode.com/u/contactsunilyadavofficial//https://leetcode.com/u/contactsunilyadavofficial//blob/output/github-contribution-grid-snake.svg)

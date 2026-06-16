@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/https://leetcode.com/u/contactsunilyadavofficial//https://leetcode.com/u/contactsunilyadavofficial//main/images/cover-banner.png" height="210"/>
+  <img src="https://github.com/contactsunilyadavofficial/contactsunilyadavofficial/blob/main/images/cover-banner.png" height="210"/>
 </p>
 <h1 align="center">Hi 👋, I'm Sunil Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/https://leetcode.com/u/contactsunilyadavofficial//https://leetcode.com/u/contactsunilyadavofficial//main/images/sunilyadav.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/contactsunilyadavofficial/contactsunilyadavofficial/blob/main/images/sunilyadav.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://leetcode.com/u/contactsunilyadavofficial/&label=Profile%20views&color=0e75b6&style=flat" alt="contactsunilyadavofficial/ /> </p>
 
